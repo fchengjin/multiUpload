@@ -28,5 +28,5 @@ multiUpload({
 | onComplete | Function | false | 上传完成，无论是否上传成功，有两个参数，successArr(并非成功保存到服务器的，自行打印`successArr[0].data`查看服务器返回的内容),errorArr |
 
 ## todo
-- [] 获取每个文件的上传进度
-- [] 每个文件的状态是否有更好的展示方法
+- [ ] 获取每个文件的上传进度
+- [ ] 每个文件的状态是否有更好的展示方法
